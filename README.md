@@ -2,6 +2,8 @@
 
 <h3 align="center">
   Hi it's 
+</h3>
+<h3 align="center">
   Osman Mohamed's profile!
 </h3>
 
