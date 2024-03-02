@@ -14,7 +14,7 @@
 - ⚡ Fun Fact: Seeking new thrills through the pages of adventure novels.
 
 ### Connect with Me :
-<a href="https://www.linkedin.com/in/osmanz/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQEdpqYq9o6QLw/profile-displayphoto-shrink_400_400/0/1697230864611?e=1714608000&v=beta&t=Y3wV0rfkr0CkDVIO1jpJVmxHzotP3af2HsxrdspqZXk"/></a>
+<a href="https://www.linkedin.com/in/osmanz/" target="_blank"><img src="[https://media.licdn.com/dms/image/D4D03AQEdpqYq9o6QLw/profile-displayphoto-shrink_400_400/0/1697230864611?e=1714608000&v=beta&t=Y3wV0rfkr0CkDVIO1jpJVmxHzotP3af2HsxrdspqZXk](https://img.shields.io/badge/-Ahmed%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
