@@ -3,7 +3,7 @@
 <h3 align="center">
   Hi it's 
 </h3>
-<h3 align="center">
+<h3 align="center" color="green">
   Osman Mohamed's profile!
 </h3>
 
