@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Osman Mohamed" width="150" height="150">
-</p>
-
-<p align="center">
   I'm a Cybersecurity student passionate about creating a safer and more secure world using the latest technologies. I seek new thrills through the pages of adventure novels.
 </p>
 
@@ -25,3 +21,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Networking](https://img.shields.io/badge/-Networking-05122A?style=flat&logo=cisco)&nbsp;
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-05122A?style=flat&logo=kali-linux)&nbsp;
+![Firewalls](https://img.shields.io/badge/-Firewalls-05122A?style=flat&logo=checkpoint)&nbsp;
