@@ -1,6 +1,6 @@
 
 
-<h3 align="center">
+<h3 align="center"; color="green"; font=25px;>
   Hi it's 
 </h3>
 <h3 align="center" color="green">
