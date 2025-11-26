@@ -12,8 +12,18 @@
 
 ### Connect with Me:
 <a href="https://www.linkedin.com/in/osmanz/" target="_blank">
-  <img src="https://img.shields.io/badge/-Osman%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Osman%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="My LinkedIn Account">
 </a>
+<a href="https://www.youtube.com/@OsaBIMGuru/" target="_blank">
+  <img src="https://img.shields.io/badge/-Osman%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="My Youtube Channel">
+</a>
+<a href="https://www.youtube.com/@OsaBIMGuru/" target="_blank">
+  <img src="https://img.shields.io/badge/-Osman%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="My Facebook Profile">
+</a>
+<a href="https://www.youtube.com/@OsaBIMGuru/" target="_blank">
+  <img src="https://img.shields.io/badge/-Osman%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Telegram">
+</a>
+
 
 ### 🛠 Tech Stack:
 ![Revit](https://img.shields.io/badge/-Revit-05122A?style=flat&logo=autodesk)&nbsp;
